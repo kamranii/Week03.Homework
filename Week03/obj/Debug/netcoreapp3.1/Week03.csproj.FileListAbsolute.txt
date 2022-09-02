@@ -1,0 +1,14 @@
+/Users/kamranimranli/Desktop/Pull/Week03/Week03/bin/Debug/netcoreapp3.1/Week03
+/Users/kamranimranli/Desktop/Pull/Week03/Week03/bin/Debug/netcoreapp3.1/Week03.deps.json
+/Users/kamranimranli/Desktop/Pull/Week03/Week03/bin/Debug/netcoreapp3.1/Week03.runtimeconfig.json
+/Users/kamranimranli/Desktop/Pull/Week03/Week03/bin/Debug/netcoreapp3.1/Week03.runtimeconfig.dev.json
+/Users/kamranimranli/Desktop/Pull/Week03/Week03/bin/Debug/netcoreapp3.1/Week03.dll
+/Users/kamranimranli/Desktop/Pull/Week03/Week03/bin/Debug/netcoreapp3.1/Week03.pdb
+/Users/kamranimranli/Desktop/Pull/Week03/Week03/obj/Debug/netcoreapp3.1/Week03.csproj.AssemblyReference.cache
+/Users/kamranimranli/Desktop/Pull/Week03/Week03/obj/Debug/netcoreapp3.1/Week03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamranimranli/Desktop/Pull/Week03/Week03/obj/Debug/netcoreapp3.1/Week03.AssemblyInfoInputs.cache
+/Users/kamranimranli/Desktop/Pull/Week03/Week03/obj/Debug/netcoreapp3.1/Week03.AssemblyInfo.cs
+/Users/kamranimranli/Desktop/Pull/Week03/Week03/obj/Debug/netcoreapp3.1/Week03.csproj.CoreCompileInputs.cache
+/Users/kamranimranli/Desktop/Pull/Week03/Week03/obj/Debug/netcoreapp3.1/Week03.dll
+/Users/kamranimranli/Desktop/Pull/Week03/Week03/obj/Debug/netcoreapp3.1/Week03.pdb
+/Users/kamranimranli/Desktop/Pull/Week03/Week03/obj/Debug/netcoreapp3.1/Week03.genruntimeconfig.cache
