@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "87iQgUB/hea2OvAMAUczF+wsE79jTa0RRLj6qkgJrc9al4++koV0XSxEXIMIaEuYOpvnpEUVHPZhZoWQ5KFdzA==",
+  "dgSpecHash": "d8D5V15uz/U01cQMK+R7UbOCuuASbB2fzTJ9VbaPozlzyBx36omza7AFeyUTgcMgfGiHkDX6Z/7kv3Fz0xoOWQ==",
   "success": true,
-  "projectFilePath": "/Users/kamranimranli/Desktop/CodeAcademy/Week03/Week03/Week03.csproj",
+  "projectFilePath": "/Users/kamranimranli/Desktop/CodeAcademy/C#/Week03/Week03/Week03.csproj",
   "expectedPackageFiles": [
     "/Users/kamranimranli/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/kamranimranli/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/kamranimranli/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
     "/Users/kamranimranli/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
